@@ -2,9 +2,9 @@
 
 ---
 
-### Welcome to the Gradient Descent Adventure!
+### Welcome to the Gradient Descent Adventure !
 
-Are you ready to embark on an exciting journey through the world of optimization? Strap in and hold on tight as we dive into the heart-pounding realm of Gradient Descent!
+Are you ready to embark on an exciting journey through the world of optimization? Strap in and hold on tight as we dive into the heart-pounding realm of Gradient Descent !
 
 ### About
 
@@ -12,7 +12,7 @@ In this repository, you'll find everything you need to conquer optimization chal
 
 ### What's Inside
 
-1. **Python Scripts**: Unleash the power of Python with our thrilling implementation of Gradient Descent. From simple quadratic functions to mind-bending polynomials, the adventure awaits!
+1. **Python Scripts**: Unleash the power of Python with our thrilling implementation of Gradient Descent. From simple quadratic functions to mind-bending polynomials, the adventure awaits !
 
 2. **Readme Quest**: Your quest begins with this Readme, your trusty guide through the perilous lands of optimization. Follow its wise words, and victory shall be yours!
 
@@ -26,7 +26,7 @@ In this repository, you'll find everything you need to conquer optimization chal
 
 - **Epic Battles**: Engage in epic battles against functions seeking to maximize or minimize their values.
 - **Magical Learning**: Unveil the secrets of Gradient Descent through enchanting code and captivating visualizations.
-- **Community Guild**: Join forces with fellow adventurers in the community guild. Share insights, conquer challenges, and celebrate victories together!
+- **Community Guild**: Join forces with fellow adventurers in the community guild. Share insights, conquer challenges, and celebrate victories together !
 
 ### Quests Awaiting Your Courage
 
