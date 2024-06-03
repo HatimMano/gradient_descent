@@ -14,7 +14,7 @@ In this repository, you'll find everything you need to conquer optimization chal
 
 1. **Python Scripts**: Unleash the power of Python with our thrilling implementation of Gradient Descent. From simple quadratic functions to mind-bending polynomials, the adventure awaits !
 
-2. **Readme Quest**: Your quest begins with this Readme, your trusty guide through the perilous lands of optimization. Follow its wise words, and victory shall be yours!
+2. **Readme Quest**: Your quest begins with this Readme, your trusty guide through the perilous lands of optimization. Follow its wise words, and victory shall be yours !
 
 ### How to Join the Adventure
 
